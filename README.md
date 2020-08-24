@@ -41,7 +41,9 @@ See free video tutorial for full explanation of these steps:
 `$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
 The following pictures demonstrate the work-
-https://github.com/jaswantcoder/Ballot-Dapp/blob/master/accound%20transaction.png
+[screenshot](https://github.com/jaswantcoder/Ballot-Dapp/blob/master/ballot%20deployment.png)
+[screenshot](https://github.com/jaswantcoder/Ballot-Dapp/blob/master/accound%20transaction.png)
+
 
 
 If you get stuck, please contact me at : `jaswantarya442@gmail.com
