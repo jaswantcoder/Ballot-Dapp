@@ -41,8 +41,9 @@ See free video tutorial for full explanation of these steps:
 `$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
 The following pictures demonstrate the work-
-[screenshot](https://github.com/jaswantcoder/Ballot-Dapp/blob/master/ballot%20deployment.png)
-[screenshot](https://github.com/jaswantcoder/Ballot-Dapp/blob/master/accound%20transaction.png)
+![](https://github.com/jaswantcoder/Ballot-Dapp/blob/master/after%20ballot2.png)
+![](https://github.com/jaswantcoder/Ballot-Dapp/blob/master/ballot%20deployment.png)
+![](https://github.com/jaswantcoder/Ballot-Dapp/blob/master/accound%20transaction.png)
 
 
 
