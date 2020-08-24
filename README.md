@@ -40,5 +40,8 @@ See free video tutorial for full explanation of these steps:
 ## Step 6. Run the Front End Application
 `$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
+The following pictures demonstrate the work-
+https://github.com/jaswantcoder/Ballot-Dapp/blob/master/accound%20transaction.png
+
 
 If you get stuck, please contact me at : `jaswantarya442@gmail.com
